@@ -9,13 +9,35 @@ O objetivo é criar um ambiente onde as pessoas possam interagir com programaç�
 As pastas/diretórios estão, atualmente, organizados da seguinte forma:
 
 ```text
-├── 📚 docs/                        # Documentação geral
-│   ├── 🐍 python/                  # Teoria e boas práticas Pythônicas
-│   │   └── (em breve...)
-│   └── 🚜 jogo/                    # Referências e mecânicas do jogo
-│       └── (em breve...)
-├── 🌱 iniciante/                   # Scripts básicos e autocontidos
-├── 🌿 intermediario/               # Scripts refatorados com funções 
-├── 🌳 avancado/                    # Bibliotecas reutilizáveis e códigos modulares
-└── 📄 README.md
+.
+├── 📄 README.md
+├── 📚 docs/
+│   ├── 🚜 jogo/
+│   │   ├── 💻 Programacao/
+│   │   │   ├── 📝 01_comentarios.md
+│   │   │   └── 🔀 fluxo_de_controle/
+│   │   │       ├── 📝 01_break.md
+│   │   │       ├── 📝 02_continue.md
+│   │   │       ├── 📝 03_if.md
+│   │   │       └── 📝 04_while.md
+│   │   ├── 📦 conteineres/
+│   │   ├── 🔓 desbloqueios/
+│   │   │   ├── 🌻 agricultura/
+│   │   │   └── 🧩 outros/
+│   │   ├── 📖 informacoes_gerais/
+│   │   │   ├── 📝 01_creditos.md
+│   │   │   ├── 📝 02_editor_externo.md
+│   │   │   └── 📝 03_primeiro_programa.md
+│   │   └── 📝 99_progressao_fazenda.md
+│   └── 🐍 python/
+└── 📜 scripts/
+    ├── 📄 README.md
+    ├── 🌾 fazenda/
+    │   ├── 🌱 iniciante/
+    │   ├── 🌿 intermediario/
+    │   └── 🌳 avancado/
+    └── ⛏️ mina/
+        ├── 🪨 iniciante/
+        ├── 🪙 intermediario/
+        └── 💎 avancado/
 ```
